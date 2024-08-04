@@ -41,6 +41,19 @@ Simulation and real-life testing were conducted in order to validate the behavio
           [Link to the report](https://drive.google.com/file/d/1O6j72nzqwbA8HTsFL853CV2fNH2on2dY/view?usp=sharing)
 </details>
 
+### Game of life
+This project creates the game of life by John Conway in C and ncurses using dinamic memory. The project also includes metrics as memory leak checks. 
+<details open>
+<summary><b>More details:</b></summary> 
+
+**Technologies:** C, ncurses, Make, 
+
+**Role:** This project is part of my master's degree.
+
+**Link:** [GitHub Repository](https://github.com/LluisPriorSancho/GameOfLife.git) 
+          [Link to the report](https://drive.google.com/file/d/1W1FBDqMo0KGRYD2TOpgXCV5AOS6FBH8R/view?usp=sharing)
+</details>
+
 ## Contact
 - **Email:** lluis.prior.sancho@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lluis-prior-sancho/)
